@@ -10,7 +10,7 @@ These boards are released under the Creative Commons Attribution 4.0 Internation
 
 | ID            | MOD            | Revision |
 | :------------ | :------------- | :------: |
-| DMG-A02-MOD   | F-ROM          | REV1     |
-| DMG-KGDU-MOD  | F-ROM          | REV2     |
-| DMG-KGDU-MOD2 | F-ROM, BATTERY | REV2     |
+| DMG-A02-MOD   | F-RAM          | REV1     |
+| DMG-KGDU-MOD  | F-RAM          | REV2     |
+| DMG-KGDU-MOD2 | F-RAM, BATTERY | REV2     |
 
