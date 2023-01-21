@@ -1,9 +1,10 @@
 # NintendoPCB
+
 A remake of various Nintendo PCB with KiCAD.
 
 # License
 
-These boards are released under the Creative Commons Attribution 4.0 International License. See the LICENSE for more details. These boards are intended specifically for the modification of official games and not for the creation of flash carts.
+These boards are released under the Creative Commons Attribution 4.0 International License. See the LICENSE for more details. These boards are intended specifically for the modification of official games. There are better boards for creating flash carts.
 
 # Boards
 
