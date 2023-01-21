@@ -1961,7 +1961,7 @@
   (gr_text "'23" (at 175.514 63.246) (layer "B.Mask") (tstamp 132c3395-3313-4700-b784-22717a97e4cd)
     (effects (font (size 0.8 0.8) (thickness 0.2)) (justify mirror))
   )
-  (gr_text "F-ROM/BATT\nMOD BOARD\nREV1" (at 175.26 60.071) (layer "B.Mask") (tstamp 2074164b-79ba-4435-976b-59d0cf2d1085)
+  (gr_text "F-RAM/BATT\nMOD BOARD\nREV2" (at 175.26 60.071) (layer "B.Mask") (tstamp 2074164b-79ba-4435-976b-59d0cf2d1085)
     (effects (font (size 0.7 0.7) (thickness 0.1)) (justify mirror))
   )
   (gr_text "1" (at 178.181 64.516) (layer "B.Mask") (tstamp 527a0bd8-14b8-4a2f-a20e-debdd74cbbe5)

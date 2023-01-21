@@ -15,7 +15,7 @@
     "ratsnest_display_mode": 0,
     "selection_filter": {
       "dimensions": true,
-      "footprints": true,
+      "footprints": false,
       "graphics": true,
       "keepouts": true,
       "lockedItems": true,
@@ -62,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "ffffbff_ffffffff",
+    "visible_layers": "00290ea_80000001",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "DMG-KGDU-MOD2.kicad_prl",
+    "filename": "DMG-A02-MOD.kicad_prl",
     "version": 3
   },
   "project": {
