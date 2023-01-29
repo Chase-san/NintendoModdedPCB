@@ -1,6 +1,6 @@
-# NintendoPCB
+# NintendoModdedPCB
 
-A remake of various Nintendo PCB with KiCAD.
+Modifications of my remakes various Nintendo PCB with KiCAD. Usually for F-RAM and battery.
 
 # License
 
@@ -10,7 +10,7 @@ These boards are released under the Creative Commons Attribution 4.0 Internation
 
 | ID            | MOD            | Revision |
 | :------------ | :------------- | :------: |
-| DMG-A02-MOD   | F-RAM          | REV1     |
+| DMG-A02-MOD   | F-RAM          | REV2     |
 | DMG-KGDU-MOD  | F-RAM          | [REV2](https://github.com/Chase-san/NintendoModdedPCB/releases/tag/dmg-kgdu-mod-rev2) |
 | DMG-KGDU-MOD2 | F-RAM, BATTERY | [REV2](https://github.com/Chase-san/NintendoModdedPCB/releases/tag/dmg-kgdu-mod2-rev2) |
 
