@@ -1,6 +1,6 @@
 (footprint "Batt_CR2025" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 63CB55F9)
+  (tedit 63D994EE)
   (attr smd)
   (fp_text reference "BT**" (at 0 12.192 unlocked) (layer "F.Fab")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -68,10 +68,10 @@
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy -8.509 1.016)
+        (xy -9.779 1.016)
         (xy -11.049 1.016)
         (xy -11.049 -1.016)
-        (xy -8.509 -1.016)
+        (xy -9.779 -1.016)
       )
     )
   )
