@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name "Nintendo")(type "KiCad")(uri "${KIPRJMOD}/../Nintendo.pretty")(options "")(descr ""))
-)

@@ -5,3 +5,5 @@ raw_*.png
 ref_*.png
 *.kra
 *-cache
+*.bak
+gerber/
