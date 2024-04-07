@@ -11,7 +11,7 @@ This board features a 32-pin ROM and a 28-pin RAM module.
 | U1    | TSOP-II-44W | Program ROM  | | |
 | U2    | LQFP-32     | MBC-3        | | |
 | U3    | SOIC-28W    | F-RAM        | | |
-| U4    | SOT-23-6    | Clock Sync   | OR Gate | 74LVC1G332GV,125 |
+| U4    | TSOP-6      | Clock Sync   | OR Gate | 74LVC1G332GV,125 |
 
 ## Change Log
 
