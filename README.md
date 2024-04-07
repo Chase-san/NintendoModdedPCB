@@ -2,6 +2,8 @@
 
 Modifications of my remakes various Nintendo PCB with KiCAD. Usually for F-RAM and battery.
 
+These were designed with the help of Mhouranix1125, which created the excellent [DMG-KGDU-10+](https://github.com/Mhouranix1125/DMG-KGDU-10-Plus-FRAM-Upgraded-PCB)
+
 # License
 
 These boards are released under the Creative Commons Attribution 4.0 International License. See the LICENSE for more details. These boards are intended specifically for the modification of official games. There are better boards for creating flash carts.
